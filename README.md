@@ -12,6 +12,7 @@ Real-Time Stocks is a Python application that fetches and displays real-time sto
 
 - Python > 3.10
 - Poetry for dependency management
+- Assure IBKR account and Trader Workstation running in background
 
 ## Installation
 
@@ -27,8 +28,6 @@ Real-Time Stocks is a Python application that fetches and displays real-time sto
     ```sh
     poetry install
     ```
-
-3. Assure IBKR account and Trader Workstation running in background
 
 ## Usage
 
