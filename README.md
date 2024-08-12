@@ -28,6 +28,8 @@ Real-Time Stocks is a Python application that fetches and displays real-time sto
     poetry install
     ```
 
+3. Assure IBKR account and Trader Workstation running in background
+
 ## Usage
 
 To run the application, use the following command:
